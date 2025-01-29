@@ -8,21 +8,21 @@ Key Findings
 
   1. Age and IDH1 Mutation Correlation
   
-  Younger patients exhibit a higher prevalence of IDH1 mutations.
-  
-  Older patients are more likely to have the wildtype IDH1 variant.
+    Younger patients exhibit a higher prevalence of IDH1 mutations.
+    
+    Older patients are more likely to have the wildtype IDH1 variant.
   
   2. MGMT Methylation and Treatment Response
   
-  MGMT methylation enhances treatment response, particularly to temozolomide.
-  
-  Unmethylated MGMT is associated with treatment resistance and poor outcomes.
+    MGMT methylation enhances treatment response, particularly to temozolomide.
+    
+    Unmethylated MGMT is associated with treatment resistance and poor outcomes.
   
   3. Gender and Survival Patterns
   
-  While there may be gender-based molecular differences, survival trends remain consistent across male and female patients.
-  
-  Survival outcomes are primarily influenced by IDH1 mutation status and MGMT methylation rather than gender alone.
+    While there may be gender-based molecular differences, survival trends remain consistent across male and female patients.
+    
+    Survival outcomes are primarily influenced by IDH1 mutation status and MGMT methylation rather than gender alone.
 
 
 Implications for Research and Treatment
